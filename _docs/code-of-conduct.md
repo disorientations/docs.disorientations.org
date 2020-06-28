@@ -4,7 +4,7 @@ tags: docs
 
 # Code of Conduct
 
-Published at https://disorientations.org/s/archive/page/code-of-conduct on June 13, 2020
+Published at https://docs.disorientations.org/code-of-conduct on June 13, 2020
 
 ## Shorter version
 
