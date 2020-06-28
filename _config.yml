@@ -9,6 +9,9 @@ collections:
   docs:
     output: true
     permalink: /:title
+  notes:
+    output: true
+    permalink: /:title
 
 defaults:
   -
