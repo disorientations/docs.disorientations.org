@@ -9,28 +9,41 @@ layout: default
 
   {{ content }}
 
-    <h2 class="post-list-heading">Docs</h2>
-    <ul class="post-list">
-      {%- assign posts = site.docs -%}
-      {%- for post in posts -%}
-      <li>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </li>
-      {%- endfor -%}
-    </ul>
+  <h2>Documents and meeting notes from the <a href="https://disorientations.org">Disorientations Archive</a></h2>
 
-    <h2 class="post-list-heading">Meeting Notes</h2>
-    <ul class="post-list">
-      {%- assign posts = site.notes | sort: 'date' | reverse -%}
-      {%- for post in posts -%}
-      <li>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </li>
-      {%- endfor -%}
-    </ul>
+  <hr>
+
+  <h2 class="post-list-heading">Docs</h2>
+
+  <div style="background: #fff; border: #ccc; padding: 1em;">📝 <strong>Here are our published documents</strong>, including governance, how-tos, and related resources.</div>
+
+  <ul class="post-list">
+    {%- assign posts = site.docs -%}
+    {%- for post in posts -%}
+    <li>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </li>
+    {%- endfor -%}
+  </ul>
+
+  <hr>
+
+
+  <h2 class="post-list-heading">Meeting Notes</h2>
+
+  <div style="background: #fff; border: #ccc; padding: 1em;">🗣 <strong>We meet weekly to check-in, discuss topics related to Disorientations, and share progress on initiatives.</strong> If you're interested in attending an upcoming meeting, join <a href="https://disorientations.zulipchat.com">Zulip</a> and check out the "#general > weekly meeting" topic.</div> 
+
+  <ul class="post-list">
+    {%- assign posts = site.notes | sort: 'date' | reverse -%}
+    {%- for post in posts -%}
+    <li>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </li>
+    {%- endfor -%}
+  </ul>
 
   </div>
