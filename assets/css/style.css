@@ -1,0 +1,8 @@
+a:link, a:visited {
+    color: #920b0b
+}
+
+a:active, a:hover {
+    color: #920b0b;
+    opacity: .75;
+}
