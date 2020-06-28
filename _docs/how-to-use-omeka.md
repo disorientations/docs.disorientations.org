@@ -2,7 +2,7 @@
 tags: docs, how-to
 ---
 
-# How to use Omeka
+# How To Use Omeka
 
 * Naming convention
     * What it says on the title
