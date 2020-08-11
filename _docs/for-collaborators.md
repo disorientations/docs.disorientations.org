@@ -2,7 +2,7 @@
 tags: docs
 ---
 
-# For Collaborators
+# Tools for Collaborators
 
 Here are quick links to the login pages for our most commonly used tools:
 
