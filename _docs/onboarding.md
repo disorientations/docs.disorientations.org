@@ -2,7 +2,26 @@
 tags: docs
 ---
 
-# Onboarding
+# Start Here
+
+## Currently working on/focus areas
+
+Projects we are focusing on/dedicating co-working time and space to at the moment. Open to any collaborators at any time!
+
+- **OurNetworks Workshop**: Taking place virtually on Friday 9/11, from 12-1:30pm EST
+    - Currently in the planning phase! See [OurNetworks Workshop Planning](/CggdgrujSriY06lB_t2tGQ)
+    - Next meeting: Sunday, 8/16 4-7pm EST
+- **Dream Website**: Imaginging what we'd like our site to be, an ongoing speculative project
+    - See [Website Workshop 2020-08-09](/79V-cYWKRYKoNGi8jhoQiw)
+    - Next meeting: Sunday, 8/23 4-7pm EST
+
+## Ongoing projects/goals
+
+- **Fall 2020 Disorientations**
+- **Internal/governance**
+- **Website Development**
+
+## Get involved
 
 Disorientations is an open group. Anyone can join the project and start participating right away.
 
