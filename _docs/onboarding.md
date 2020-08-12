@@ -13,7 +13,7 @@ Projects we are focusing on/dedicating co-working time and space to at the momen
     - Next meeting: Sunday, 8/16 4-7pm EST
 - **Dream Website**: Imaginging what we'd like our site to be, an ongoing speculative project
     - See [Website Workshop 2020-08-09](/79V-cYWKRYKoNGi8jhoQiw)
-    - Next meeting: Sunday, 8/23 4-7pm EST
+    - Next meeting: TBD, tentatively Wednesday 8/19 or Thursday 8/20 evening
 
 ## Ongoing projects/goals
 
