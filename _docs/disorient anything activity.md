@@ -1,7 +1,4 @@
----
-output: pdf_document
-tags: our networks, opportunities
----
+
 # disorient anything activity
 
 
