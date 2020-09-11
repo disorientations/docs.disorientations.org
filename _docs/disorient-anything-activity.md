@@ -84,3 +84,6 @@ tags: our networks, opportunities
 ```
 
 ```
+ 
+ 
+disorientations.org // our networks, september 2020
