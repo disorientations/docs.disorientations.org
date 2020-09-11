@@ -6,9 +6,7 @@ tags: docs
 
 ## This document gathers links to resources that are informing our work on Disorientations Archive, and also points to related archives and libraries, radical technologists, and activist resources.
 
-:::info
 This is a living document edited by the collaborators on [Disorientations Archive](https://disorientations.org) — it is being updated continously! The most current version is accessible at https://docs.disorientations.org/resources
-:::
 
 ---
 
@@ -57,144 +55,141 @@ In addition to direct sources, this site aggregates and mirrors diso publicatio
 - ReclaimHosting
 - CollectiveAccess
 - [other options for literally setting up an archive]
+- archive.org
 
 ### Other tools we use
 
-## Setting up a project / governance?
-
+## Governance, Facilitation, Collaboration
 
 ## Archiving and Zine Librarianship
-
 
 ## Online Pirate Archives
 
 ## Activist Infrastructure
 
-
 ## Radical Technologists
 
-
-## Cool and/or Related Projects
+## Related Projects
 
 
 
 ## A-Z
 - A
-    - aaaaarg.fail
-    - akpress.org
-    - amusewiki.org
-    - anchorarchive.org
-    - antievictionmap.com
-    - aorta.coop
-    - archive.org
-    - archivesforblacklives.wordpress.com
+    - [aaaaarg.fail](https://aaaaarg.fail)
+    - [akpress.org](https://akpress.org)
+    - [amusewiki.org](https://amusewiki.org)
+    - [anchorarchive.org](https://anchorarchive.org)
+    - [antievictionmap.com](https://antievictionmap.com)
+    - [aorta.coop](https://aorta.coop)
+    - [archive.org](https://archive.org)
+    - [archivesforblacklives.wordpress.com](https://archivesforblacklives.wordpress.com)
 - B
-    - bigdoorbrigade.com/mutual-aid-toolbox/affinity-groups/
+    - [bigdoorbrigade.com/mutual-aid-toolbox/affinity-groups/](https://bigdoorbrigade.com/mutual-aid-toolbox/affinity-groups/)
 - C
-    - campusactivism.org
-    - civichall.org/civicist/build-tech-with-movements/
-    - civiclaboratory.nl/clear-lab-book/
-    - collectiveaccess.org
-    - combaheerivercollective.weebly.com/the-combahee-river-collective-statement.html
-    - communityrule.info
-    - conifer.rhizome.org
+    - [campusactivism.org](https://campusactivism.org)
+    - [civichall.org/civicist/build-tech-with-movements/](https://civichall.org/civicist/build-tech-with-movements/)
+    - [civiclaboratory.nl/clear-lab-book/](https://civiclaboratory.nl/clear-lab-book/)
+    - [collectiveaccess.org](https://collectiveaccess.org)
+    - [combaheerivercollective.weebly.com/the-combahee-river-collective-statement.html](https://combaheerivercollective.weebly.com/the-combahee-river-collective-statement.html)
+    - [communityrule.info](https://communityrule.info)
+    - [conifer.rhizome.org](https://conifer.rhizome.org)
 - D
-    - decentralizedweb.net
-    - democraticmediums.info
-    - designjustice.org
-    - digitaltransgenderarchive.net
-    - dis-orientation.info 
-    - disorientation.net
-    - docnow.io
+    - [decentralizedweb.net](https://decentralizedweb.net)
+    - [democraticmediums.info](https://democraticmediums.info)
+    - [designjustice.org](https://designjustice.org)
+    - [digitaltransgenderarchive.net](https://digitaltransgenderarchive.net)
+    - [dis-orientation.info ](https://dis-orientation.info )
+    - [disorientation.net](https://disorientation.net)
+    - [docnow.io](https://docnow.io)
 - E
-    - eastbayalternativebookandzinefest.com/ebabz-digital-zine-library
-    - en.wikipedia.org/wiki/Memory_work
-    - en.wikipedia.org/wiki/Sociocracy
-    - en.wikipedia.org/wiki/Tamiment_Library_and_Robert_F._Wagner_Archives
-    - exhibits.stanford.edu/activism/browse/disorientation-guide
+    - [eastbayalternativebookandzinefest.com/ebabz-digital-zine-library](https://eastbayalternativebookandzinefest.com/ebabz-digital-zine-library)
+    - [en.wikipedia.org/wiki/Memory_work](https://en.wikipedia.org/wiki/Memory_work)
+    - [en.wikipedia.org/wiki/Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)
+    - [en.wikipedia.org/wiki/Tamiment_Library_and_Robert_F._Wagner_Archives](https://en.wikipedia.org/wiki/Tamiment_Library_and_Robert_F._Wagner_Archives)
+    - [exhibits.stanford.edu/activism/browse/disorientation-guide](https://exhibits.stanford.edu/activism/browse/disorientation-guide)
 - F
-    - fact.110west40th.com
-    - fuc-series.org
+    - [fact.110west40th.com](https://fact.110west40th.com)
+    - [fuc-series.org](https://fuc-series.org)
 - G
-    - geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy
-    - gitenberg.org
-    - groups.yahoo.com/neo/groups/zinelibrarians/info
-    - guerrillatranslation.org
+    - [geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy](https://geekfeminism.wikia.org/wiki/Community_anti-harassment/Policy)
+    - [gitenberg.org](https://gitenberg.org)
+    - [groups.yahoo.com/neo/groups/zinelibrarians/info](https://groups.yahoo.com/neo/groups/zinelibrarians/info)
+    - [guerrillatranslation.org](https://guerrillatranslation.org)
 - H
-    - homosaurus.org
+    - [homosaurus.org](https://homosaurus.org)
 - I
-    - ica.coop
-    - indybay.org
-    - indymedia.org
-    - interferencearchive.org
-    - issuu.com/search?q=disorientation
+    - [ica.coop](https://ica.coop)
+    - [indybay.org](https://indybay.org)
+    - [indymedia.org](https://indymedia.org)
+    - [interferencearchive.org](https://interferencearchive.org)
+    - [issuu.com/search?q=disorientation](https://issuu.com/search?q=disorientation)
 - J
 - K
 - L
-    - laacollective.org
-    - lab.witness.org
-    - leftove.rs
-    - libcom.org
-    - libgen.rs
-    - littlesis.org/toolkit
+    - [laacollective.org](https://laacollective.org)
+    - [lab.witness.org](https://lab.witness.org)
+    - [leftove.rs](https://leftove.rs)
+    - [libcom.org](https://libcom.org)
+    - [libgen.rs](https://libgen.rs)
+    - [littlesis.org/toolkit](https://littlesis.org/toolkit)
 - M
-    - maskon.zone
-    - maydayrooms.org
-    - mayfirst.coop
-    - memoryoftheworld.org
-    - monoskop.org
-    - mukurtu.org
+    - [maskon.zone](https://maskon.zone)
+    - [maydayrooms.org](https://maydayrooms.org)
+    - [mayfirst.coop](https://mayfirst.coop)
+    - [memoryoftheworld.org](https://memoryoftheworld.org)
+    - [monoskop.org](https://monoskop.org)
+    - [mukurtu.org](https://mukurtu.org)
 - N
 - O
-    - omeka.org
-    - opencollective.com
-    - openmedialibrary.com
-    - ournetworks.ca
-    - outreach.mayfirst.org/techstatement/
+    - [omeka.org](https://omeka.org)
+    - [opencollective.com](https://opencollective.com)
+    - [openmedialibrary.com](https://openmedialibrary.com)
+    - [ournetworks.ca](https://ournetworks.ca)
+    - [outreach.mayfirst.org/techstatement/](https://outreach.mayfirst.org/techstatement/)
 - P
-    - pad.ma
-    - pad.riseup.net/p/social_movements_and_tech_change-keep
-    - pirate.care
-    - platform.coop
-    - plutobooks.com/9780745343167/pandemic-solidarity/
-    - promiseandpractice.art
-    - pubpub.org
+    - [pad.ma](https://pad.ma)
+    - [pad.riseup.net/p/social_movements_and_tech_change-keep](https://pad.riseup.net/p/social_movements_and_tech_change-keep)
+    - [pirate.care](https://pirate.care)
+    - [platform.coop](https://platform.coop)
+    - [plutobooks.com/9780745343167/pandemic-solidarity/](https://plutobooks.com/9780745343167/pandemic-solidarity/)
+    - [promiseandpractice.art](https://promiseandpractice.art)
+    - [pubpub.org](https://pubpub.org)
 - Q
-    - queer.archive.work
-    - qzap.org
+    - [queer.archive.work](https://queer.archive.work)
+    - [qzap.org](https://qzap.org)
 - R
-    - radicalnetworks.org
-    - radicalreference.info
-    - reclaimhosting.com
-    - riseup.net/en/security/resources/radical-servers
+    - [radicalnetworks.org](https://radicalnetworks.org)
+    - [radicalreference.info](https://radicalreference.info)
+    - [reclaimhosting.com](https://reclaimhosting.com)
+    - [riseup.net/en/security/resources/radical-servers](https://riseup.net/en/security/resources/radical-servers)
 - S
-    - sci-hub.tw
-    - sherwoodforestzinelibrary.org
-    - sister0.org/?feminist-server-stack
-    - sites.rhizome.org/artbase-re-design/
-    - social.coop
-    - sociocracyforall.org/facilitation/
-    - soulellis.com/teaching/urgencylab
-    - standarchives.com
-    - subMedia.tv
+    - [sci-hub.tw](https://sci-hub.tw)
+    - [sherwoodforestzinelibrary.org](https://sherwoodforestzinelibrary.org)
+    - [sister0.org/?feminist-server-stack](https://sister0.org/?feminist-server-stack)
+    - [sites.rhizome.org/artbase-re-design/](https://sites.rhizome.org/artbase-re-design/)
+    - [social.coop](https://social.coop)
+    - [sociocracyforall.org/facilitation/](https://sociocracyforall.org/facilitation/)
+    - [soulellis.com/teaching/urgencylab](https://soulellis.com/teaching/urgencylab)
+    - [standarchives.com](https://standarchives.com)
+    - [subMedia.tv](https://subMedia.tv)
 - T
-    - tapor.ca
-    - texasafterviolence.org
-    - theanarchistlibrary.org
-    - theblackivists.com
-    - thedecider.app
-    - thenewinquiry.com/guides-for-the-perplexed/
-    - toolkit.press
+    - [tapor.ca](https://tapor.ca)
+    - [texasafterviolence.org](https://texasafterviolence.org)
+    - [theanarchistlibrary.org](https://theanarchistlibrary.org)
+    - [theblackivists.com](https://theblackivists.com)
+    - [thedecider.app](https://thedecider.app)
+    - [thenewinquiry.com/guides-for-the-perplexed/](https://thenewinquiry.com/guides-for-the-perplexed/)
+    - [toolkit.press](https://toolkit.press)
 - U
-    - ubu.com
+    - [ubu.com](https://ubu.com)
 - V
-    - voyant-tools.org
+    - [voyant-tools.org](https://voyant-tools.org)
 - W
-    - webrecorder.net
-    - wiki.fluidproject.org/display/fluid/Platform+Cooperative+Development+Kit
+    - [webrecorder.net](https://webrecorder.net)
+    - [wiki.fluidproject.org/display/fluid/Platform+Cooperative+Development+Kit](https://wiki.fluidproject.org/display/fluid/Platform+Cooperative+Development+Kit)
 - X
 - Y
 - Z
-    - zinecat.org
-    - zinelibraries.info
-    - zines.barnard.edu
+    - [zinecat.org](https://zinecat.org)
+    - [zinelibraries.info](https://zinelibraries.info)
+    - [zines.barnard.edu](https://zines.barnard.edu)
