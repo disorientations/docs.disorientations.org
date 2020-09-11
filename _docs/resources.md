@@ -14,12 +14,12 @@ This is a living document edited by the collaborators on [Disorientations Archiv
 
 ### By Topic
 
-- [Other Disorientation Indexes](#Other-Disorientation-Indexes)
-- [Software for Archiving](#Software-for-Archiving)
-- [Governance, Facilitation, Collaboration](#Governance-Facilitation-Collaboration)
-- [Libraries and Archives](#Libraries-and-Archives)
-- [Radical Technologists](#Radical-Technologists)
-- [Inspiration](#Inspiration)
+- [Other Disorientation Indexes](#other-disorientation-indexes)
+- [Software for Archiving](#software-for-archiving)
+- [Governance, Facilitation, Collaboration](#governance-facilitation-collaboration)
+- [Libraries and Archives](#libraries-and-archives)
+- [Radical Technologists](#radical-technologists)
+- [Inspiration](#inspiration)
 
 ### Alphabetical
 
